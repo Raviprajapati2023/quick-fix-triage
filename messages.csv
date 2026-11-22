@@ -1,0 +1,13 @@
+id,channel,text,expected_category,expected_urgency
+1,email,"Hi, there is a burning smell from the main switchboard and lights keep flickering. Please send someone fast. 14 MG Road, Flat 3B. - Meera",electrical,high
+2,whatsapp,"bhaiya kitchen ka tap leak ho raha hai, thoda thoda paani gir raha hai. kal tak aa jaoge?",plumbing,medium
+3,email,"I was charged twice for last week's AC service. Invoice QF-2231. Please refund one payment.",billing,low
+4,whatsapp,"Washing machine not spinning since yesterday, makes loud noise. Model LG 7kg.",appliance,medium
+5,email,"Water is coming out from the bathroom ceiling and spreading to the bedroom!! Please come now",plumbing,high
+6,whatsapp,"Do you also do sofa cleaning? what are the charges",other,low
+7,email,"Fridge stopped cooling. We have insulin stored in it. Need help today please.",appliance,high
+8,whatsapp,"light ka switch dabane pe chingari aati hai, bachche ghar pe hain",electrical,high
+9,email,"Thanks for the quick repair yesterday, Ramesh was very polite.",other,low
+10,email,"Geyser takes very long to heat water. Not urgent, sometime this week is fine.",appliance,medium
+11,whatsapp,"Can I change my booking from Saturday to Sunday? Booking id QF-B-1182",other,low
+12,email,"Main door bell not working.",electrical,medium

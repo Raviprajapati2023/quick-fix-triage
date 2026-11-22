@@ -1,0 +1,13 @@
+id,channel,category,urgency,summary,customer_name,address,assigned_to,alert_sent,status
+1,email,electrical,high,Burning smell from main switchboard and flickering lights,Meera,"14 MG Road, Flat 3B",Electrician team,True,ok
+2,whatsapp,plumbing,medium,Kitchen tap is leaking and needs repair.,,,Plumber team,False,ok
+3,email,billing,low,Customer reported a double charge for AC service invoice QF-2231.,,,Accounts desk,False,ok
+4,whatsapp,appliance,medium,Washing machine not spinning and making loud noise,,,Appliance team,False,ok
+5,email,plumbing,high,Water leaking from bathroom ceiling into bedroom,,,Plumber team,True,ok
+6,whatsapp,other,low,Inquiry about sofa cleaning services and pricing.,,,Front desk,False,ok
+7,email,appliance,high,Refrigerator stopped cooling with insulin stored inside,,,Appliance team,True,ok
+8,whatsapp,electrical,high,Sparks coming from light switch,,,Electrician team,True,ok
+9,email,other,low,Customer provided positive feedback for the service technician.,,,Front desk,False,ok
+10,email,appliance,low,Geyser is taking a long time to heat water,,,Appliance team,False,ok
+11,whatsapp,other,low,Request to reschedule booking QF-B-1182,,,Front desk,False,ok
+12,email,electrical,medium,Doorbell is not functioning,,,Electrician team,False,ok
